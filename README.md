@@ -90,8 +90,6 @@ GitHub was used for version control throughout the development process. Multiple
 
 GitHub Repository:
 
-(Paste your GitHub repository link here)
-
 ---
 
 ## Deployment
@@ -99,8 +97,6 @@ GitHub Repository:
 The portfolio website was deployed using Render.
 
 Live Website:
-
-(Paste your Render URL here)
 
 ---
 
